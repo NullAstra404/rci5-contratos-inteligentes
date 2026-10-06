@@ -20,12 +20,6 @@
 </p>
 
 <p align="center">
-  <a href="https://app.remix.live/#url=https://github.com/NullAstra404/rci5-contratos-inteligentes/blob/main/contracts/RegistroDocumentos.sol">
-    <img src="https://img.shields.io/badge/Abrir%20en-Remix%20IDE-00C4CC?style=for-the-badge&logo=ethereum&logoColor=white" alt="Abrir en Remix IDE"/>
-  </a>
-</p>
-
-<p align="center">
   <img src="assets/RCI.png" alt="5a Reunión de Ciberseguridad para la Industria 5.0" width="390"/>
 </p>
 
@@ -35,7 +29,13 @@
 
 ### Opción 1 — Abrir directamente en Remix IDE
 
-Usa el botón **Abrir en Remix IDE** de la cabecera. El contrato `RegistroDocumentos.sol` se cargará automáticamente en un workspace de Remix.
+<p align="center">
+  <a href="https://app.remix.live/#url=https://github.com/NullAstra404/rci5-contratos-inteligentes/blob/main/contracts/RegistroDocumentos.sol">
+    <img src="https://img.shields.io/badge/Abrir%20en-Remix%20IDE-00C4CC?style=for-the-badge&logo=ethereum&logoColor=white" alt="Abrir en Remix IDE"/>
+  </a>
+</p>
+
+El contrato `RegistroDocumentos.sol` se cargará automáticamente en un workspace de Remix.
 
 > Si el archivo se abre en un workspace temporal de Remix, renombra el workspace si deseas conservar tus cambios.
 
