@@ -1,12 +1,33 @@
-# Desarrollo de Contratos Inteligentes y Aplicaciones Descentralizadas
+<p align="center">
+  <img src="assets/Logo%20INAOE.jpg" alt="INAOE" width="155"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/MCTS%20Logo.png" alt="Maestría en Ciencias y Tecnologías de Seguridad" width="125"/>
+</p>
 
-Material práctico del tutorial impartido en la **Quinta Reunión de Ciberseguridad para la Industria 5.0 (RCI 5.0)**.
+<h1 align="center">Desarrollo de Contratos Inteligentes y Aplicaciones Descentralizadas</h1>
 
-**INAOE · 7 de octubre de 2026**
+<p align="center">
+  <strong>Material práctico del tutorial</strong><br>
+  Quinta Reunión de Ciberseguridad para la Industria 5.0 (RCI 5.0)<br>
+  Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)<br>
+  <strong>Miércoles 7 de octubre de 2026</strong>
+</p>
 
-**Instructores**
-- Israel Jaudy Pérez Bermúdez
-- Armando Rivera Castillo
+<p align="center">
+  <strong>Instructores</strong><br>
+  Israel Jaudy Pérez Bermúdez<br>
+  Armando Rivera Castillo
+</p>
+
+<p align="center">
+  <a href="https://app.remix.live/#url=https://github.com/NullAstra404/rci5-contratos-inteligentes/blob/main/contracts/RegistroDocumentos.sol">
+    <img src="https://img.shields.io/badge/Abrir%20en-Remix%20IDE-00C4CC?style=for-the-badge&logo=ethereum&logoColor=white" alt="Abrir en Remix IDE"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="assets/RCI.png" alt="5a Reunión de Ciberseguridad para la Industria 5.0" width="390"/>
+</p>
 
 ---
 
@@ -14,7 +35,7 @@ Material práctico del tutorial impartido en la **Quinta Reunión de Ciberseguri
 
 ### Opción 1 — Abrir directamente en Remix IDE
 
-[![Abrir en Remix IDE](https://img.shields.io/badge/Abrir%20en-Remix%20IDE-00C4CC?style=for-the-badge&logo=ethereum&logoColor=white)](https://app.remix.live/#url=https://github.com/NullAstra404/rci5-contratos-inteligentes/blob/main/contracts/RegistroDocumentos.sol)
+Usa el botón **Abrir en Remix IDE** de la cabecera. El contrato `RegistroDocumentos.sol` se cargará automáticamente en un workspace de Remix.
 
 > Si el archivo se abre en un workspace temporal de Remix, renombra el workspace si deseas conservar tus cambios.
 
@@ -58,6 +79,11 @@ Durante la práctica se trabajará con:
 
 ```text
 rci5-contratos-inteligentes/
+├── assets/
+│   ├── Logo INAOE.jpg
+│   ├── MCTS Logo.png
+│   ├── Logo SECIHTI.png
+│   └── RCI.png
 ├── contracts/
 │   ├── RegistroDocumentos.sol
 │   └── RegistroDocumentosBase.sol
