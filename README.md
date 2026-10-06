@@ -2,7 +2,7 @@
 
 Material práctico del tutorial impartido en la **Quinta Reunión de Ciberseguridad para la Industria 5.0 (RCI 5.0)**.
 
-**INAOE · 8 de octubre de 2026**
+**INAOE · 7 de octubre de 2026**
 
 **Instructores**
 - Israel Jaudy Pérez Bermúdez
