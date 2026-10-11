@@ -27,6 +27,12 @@
 
 ## 🚀 Acceso rápido
 
+### 📽️ Presentación del taller
+
+La presentación completa utilizada durante el tutorial está disponible en formato PDF:
+
+👉 [**Ver presentación del taller RCI 5.0**](docs/Presentacion_Taller_RCI5_Dia2_Reestructurada_source.pdf)
+
 ### Opción 1 — Abrir directamente en Remix IDE
 
 <p align="center">
@@ -88,7 +94,8 @@ rci5-contratos-inteligentes/
 │   ├── RegistroDocumentos.sol
 │   └── RegistroDocumentosBase.sol
 ├── docs/
-│   └── GUIA_PRACTICA.md
+│   ├── GUIA_PRACTICA.md
+│   └── Presentacion_Taller_RCI5_Dia2_Reestructurada_source.pdf
 ├── README.md
 └── LICENSE
 ```
@@ -104,6 +111,10 @@ Plantilla mínima para quienes quieran reconstruir el contrato paso a paso.
 ### `docs/GUIA_PRACTICA.md`
 
 Guía rápida para compilar, desplegar y probar el contrato en Remix IDE.
+
+### `docs/Presentacion_Taller_RCI5_Dia2_Reestructurada_source.pdf`
+
+Presentación completa del taller, incluyendo fundamentos de blockchain, Ethereum, Solidity y la práctica guiada en Remix IDE.
 
 ---
 
